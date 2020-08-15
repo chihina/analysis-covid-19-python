@@ -2,8 +2,7 @@
 Implement SIR model and visualize spread covid-19 infected person
 
 [Movie]  
-https://www.youtube.com/watch?v=Ea1e1jbKZPg  
-https://www.youtube.com/watch?v=Ea1e1jbKZPg
+https://www.youtube.com/watch?v=7XvPKcasL1U
 
 ![Visualize](https://user-images.githubusercontent.com/61718363/90308773-5e751b00-df1d-11ea-8e70-663aadceb7d8.png "Visualize")
 

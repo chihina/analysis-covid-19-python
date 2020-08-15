@@ -6,7 +6,7 @@ Implement SIR model and visualize spread covid-19 infected person
 2. Visualize spreading infected person on prefecuters map 
 
 ## Environment
-Interpreter: python 3.7.1
+Interpreter: python 3.7.1 
 Python library: folium==0.11.0
 
 ## References

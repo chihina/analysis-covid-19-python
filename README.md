@@ -29,3 +29,12 @@ https://www.e-stat.go.jp/dbview?sid=0003215844
 
 [3] Data of Japan githubページ (2020年 7月 28日アクセス)
 https://www.e-stat.go.jp/dbview?sid=0003215844
+
+## Contacts
+If you can know about detail me, you can see my website.
+
+Qitta page: https://qiita.com/chi-na  
+
+Wantedly page: https://www.wantedly.com/users/113653637  
+
+Github page: https://github.com/chihina

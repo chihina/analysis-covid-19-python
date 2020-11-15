@@ -1,10 +1,10 @@
 # analysis-covid-19-python
 Implement SIR model and visualize spread covid-19 infected person
 
-[Qiita]
+[Qiita]  
 https://qiita.com/chi-na/items/c5389cbe2f86f2f1c1e8
 
-[Visualization]  
+[Visualization]    
 https://www.youtube.com/watch?v=7XvPKcasL1U
 
 ![Visualize](https://user-images.githubusercontent.com/61718363/90308773-5e751b00-df1d-11ea-8e70-663aadceb7d8.png "Visualize")
